@@ -10,39 +10,40 @@ container:
       stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\"\
       >\n<style>\nbody,h1,h2,h3,h4,h5,h6 {font-family: \"Lato\", sans-serif}\n.w3-bar,h1,button\
       \ {font-family: \"Montserrat\", sans-serif}\n</style>\n</head>\n<body>\n\n<!--\
-      \ Navbar -->\n<div class=\"w3-top\">\n  <div class=\"w3-bar w3-red w3-card w3-left-align\
-      \ w3-large\">\n    <a class=\"w3-bar-item w3-button w3-hide-medium w3-hide-large\
-      \ w3-right w3-padding-large w3-hover-white w3-large w3-red\" href=\"javascript:void(0);\"\
-      \ onclick=\"myFunction()\" title=\"Toggle Navigation Menu\"><i class=\"fa fa-bars\"\
-      ></i></a>\n    <a href=\"#\" class=\"w3-bar-item w3-button w3-padding-large\
-      \ w3-white\">Home</a>\n  </div>\n\n  <!-- Navbar on small screens -->\n  <div\
-      \ id=\"navDemo\" class=\"w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium\
-      \ w3-large\">\n    <a href=\"#\" class=\"w3-bar-item w3-button w3-padding-large\"\
-      >Link 1</a>\n    <a href=\"#\" class=\"w3-bar-item w3-button w3-padding-large\"\
-      >Link 2</a>\n    <a href=\"#\" class=\"w3-bar-item w3-button w3-padding-large\"\
-      >Link 3</a>\n    <a href=\"#\" class=\"w3-bar-item w3-button w3-padding-large\"\
-      >Link 4</a>\n  </div>\n</div>\n\n<!-- Header -->\n<header class=\"w3-container\
-      \ w3-red w3-center\" style=\"padding:128px 16px\">\n  <h1 class=\"w3-margin\
-      \ w3-jumbo\">Agricultural Trends in India</h1>\n  <p class=\"w3-xlarge\" align=right\
-      \ >by Divya Jyoti Samad</p>\n</header>\n\n<!-- First Grid -->\n\n<div class=\"\
-      w3-row-padding w3-padding-64 w3-container\">\n  <div class=\"w3-content\">\n\
-      <!--       <h1 align=left>Project Title</h1> -->\n    <h5 align=left>Project\
-      \ Title</h5>\n    <p align=left style='margin-left: 40px;'> Analyzing Agriculture\
-      \ in India and making strategic decisions based on it according to population</p>\n\
-      \    \n    <h5 align=left>Project Description</h5>\n    <p align=left style='margin-left:\
-      \ 40px;'> This analysis focuses on the agricultural sector in India and proposes\
-      \ strategic decision-making based on population trends. By examining the agricultural\
-      \ landscape, including crop production, farming techniques, and infrastructure,\
-      \ we aim to understand the challenges and opportunities associated with meeting\
-      \ the needs of India's growing population. By leveraging population data and\
-      \ demographic patterns, we can develop strategic plans that address food security,\
-      \ optimize resource allocation, and promote sustainable agricultural practices.\
-      \ Through a comprehensive understanding of the agricultural sector and population\
-      \ dynamics, our goal is to enhance productivity, ensure food sufficiency, and\
-      \ foster long-term growth for India's agricultural industry.</p>\n\n\n     \
-      \ </div>\n</div>\n\n\n<div class=\"w3-row-padding w3-padding-64 w3-container\"\
-      >\n  <div class=\"w3-content\">\n      <h1 align=left>Dashboard</h1>\n<!-- \
-      \      <iframe src=\"https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fyearwise&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a2227ae6e_00000000\"\
+      \ Navbar -->\n<div class=\"w3-top\">\n  <div class=\"w3-bar w3-green w3-card\
+      \ w3-left-align w3-large\">\n    <a class=\"w3-bar-item w3-button w3-hide-medium\
+      \ w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red\" href=\"\
+      javascript:void(0);\" onclick=\"myFunction()\" title=\"Toggle Navigation Menu\"\
+      ><i class=\"fa fa-bars\"></i></a>\n    <a href=\"#\" class=\"w3-bar-item w3-button\
+      \ w3-padding-large w3-white\">Home</a>\n  </div>\n\n  <!-- Navbar on small screens\
+      \ -->\n  <div id=\"navDemo\" class=\"w3-bar-block w3-white w3-hide w3-hide-large\
+      \ w3-hide-medium w3-large\">\n    <a href=\"#\" class=\"w3-bar-item w3-button\
+      \ w3-padding-large\">Link 1</a>\n    <a href=\"#\" class=\"w3-bar-item w3-button\
+      \ w3-padding-large\">Link 2</a>\n    <a href=\"#\" class=\"w3-bar-item w3-button\
+      \ w3-padding-large\">Link 3</a>\n    <a href=\"#\" class=\"w3-bar-item w3-button\
+      \ w3-padding-large\">Link 4</a>\n  </div>\n</div>\n\n<!-- Header -->\n<header\
+      \ class=\"w3-container w3-green w3-center\" style=\"padding:128px 16px\">\n\
+      \  <h1 class=\"w3-margin w3-jumbo\">Agricultural Trends in India</h1>\n  <p\
+      \ class=\"w3-xlarge\" align=right >by Divya Jyoti Samad</p>\n</header>\n\n<!--\
+      \ First Grid -->\n\n<div class=\"w3-row-padding w3-padding-64 w3-container\"\
+      >\n  <div class=\"w3-content\">\n<!--       <h1 align=left>Project Title</h1>\
+      \ -->\n    <h5 align=left>Project Title</h5>\n    <p align=left style='margin-left:\
+      \ 40px;'> Analyzing Agriculture in India and making strategic decisions based\
+      \ on it according to population</p>\n    \n    <h5 align=left>Project Description</h5>\n\
+      \    <p align=left style='margin-left: 40px;'> This analysis focuses on the\
+      \ agricultural sector in India and proposes strategic decision-making based\
+      \ on population trends. By examining the agricultural landscape, including crop\
+      \ production, farming techniques, and infrastructure, we aim to understand the\
+      \ challenges and opportunities associated with meeting the needs of India's\
+      \ growing population. By leveraging population data and demographic patterns,\
+      \ we can develop strategic plans that address food security, optimize resource\
+      \ allocation, and promote sustainable agricultural practices. Through a comprehensive\
+      \ understanding of the agricultural sector and population dynamics, our goal\
+      \ is to enhance productivity, ensure food sufficiency, and foster long-term\
+      \ growth for India's agricultural industry.</p>\n\n\n      </div>\n</div>\n\n\
+      \n<div class=\"w3-row-padding w3-padding-64 w3-container\">\n  <div class=\"\
+      w3-content\">\n      <h1 align=left>Dashboard</h1>\n<!--       <iframe src=\"\
+      https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fyearwise&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a2227ae6e_00000000\"\
       \ width=\"1024\" height=\"720\" frameborder=\"0\" gesture=\"media\" allow=\"\
       encrypted-media\" allowfullscreen=\"\"></iframe> -->\n<!--       <iframe src=\"\
       https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fseason&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a36bdf6b5_00000003\"\
