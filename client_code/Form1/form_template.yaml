@@ -1,7 +1,7 @@
 container:
   type: HtmlTemplate
   properties: {tooltip: '', background: '', foreground: '', border: '', visible: true,
-    role: null, html: "<center style=\" color:#888; margin: 3em;\">\n\n<head>\n<title>Agriculture\
+    role: null, html: "<center style=\" color:#888; margin: 3em;\">\n\n<head>\n<title>Agricultural\
       \ Trends in India</title>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\"\
       \ content=\"width=device-width, initial-scale=1\">\n<link rel=\"stylesheet\"\
       \ href=\"https://www.w3schools.com/w3css/4/w3.css\">\n<link rel=\"stylesheet\"\
@@ -23,24 +23,41 @@ container:
       >Link 3</a>\n    <a href=\"#\" class=\"w3-bar-item w3-button w3-padding-large\"\
       >Link 4</a>\n  </div>\n</div>\n\n<!-- Header -->\n<header class=\"w3-container\
       \ w3-red w3-center\" style=\"padding:128px 16px\">\n  <h1 class=\"w3-margin\
-      \ w3-jumbo\">START PAGE</h1>\n  <p class=\"w3-xlarge\" align=right >by Divya\
-      \ Jyoti Samad</p>\n</header>\n\n<!-- First Grid -->\n<div class=\"w3-row-padding\
-      \ w3-padding-64 w3-container\">\n  <div class=\"w3-content\">\n      <h1 align=left>Dashboard</h1>\n\
+      \ w3-jumbo\">Agricultural Trends in India</h1>\n  <p class=\"w3-xlarge\" align=right\
+      \ >by Divya Jyoti Samad</p>\n</header>\n\n<!-- First Grid -->\n\n<div class=\"\
+      w3-row-padding w3-padding-64 w3-container\">\n  <div class=\"w3-content\">\n\
+      <!--       <h1 align=left>Project Title</h1> -->\n    <h5 align=left>Project\
+      \ Title</h5>\n    <p align=left style='margin-left: 40px;'> Analyzing Agriculture\
+      \ in India and making strategic decisions based on it according to population</p>\n\
+      \    \n    <h5 align=left>Project Description</h5>\n    <p align=left style='margin-left:\
+      \ 40px;'> This analysis focuses on the agricultural sector in India and proposes\
+      \ strategic decision-making based on population trends. By examining the agricultural\
+      \ landscape, including crop production, farming techniques, and infrastructure,\
+      \ we aim to understand the challenges and opportunities associated with meeting\
+      \ the needs of India's growing population. By leveraging population data and\
+      \ demographic patterns, we can develop strategic plans that address food security,\
+      \ optimize resource allocation, and promote sustainable agricultural practices.\
+      \ Through a comprehensive understanding of the agricultural sector and population\
+      \ dynamics, our goal is to enhance productivity, ensure food sufficiency, and\
+      \ foster long-term growth for India's agricultural industry.</p>\n\n\n     \
+      \ </div>\n</div>\n\n\n<div class=\"w3-row-padding w3-padding-64 w3-container\"\
+      >\n  <div class=\"w3-content\">\n      <h1 align=left>Dashboard</h1>\n<!-- \
       \      <iframe src=\"https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fyearwise&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a2227ae6e_00000000\"\
       \ width=\"1024\" height=\"720\" frameborder=\"0\" gesture=\"media\" allow=\"\
-      encrypted-media\" allowfullscreen=\"\"></iframe>\n      <iframe src=\"https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fseason&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a36bdf6b5_00000003\"\
+      encrypted-media\" allowfullscreen=\"\"></iframe> -->\n<!--       <iframe src=\"\
+      https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fseason&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a36bdf6b5_00000003\"\
       \ width=\"1024\" height=\"720\" frameborder=\"0\" gesture=\"media\" allow=\"\
-      encrypted-media\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>\n\n<!-- Second\
-      \ Grid -->\n<!--   w3-light-grey -->\n<div class=\"w3-row-padding  w3-padding-64\
-      \ w3-container\">\n  <div class=\"w3-content\">\n    <h1 align=left>Report</h1>\n\
-      \    <iframe src=\"https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2Fibm%2Bhack%2Freport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false\"\
+      encrypted-media\" allowfullscreen=\"\"></iframe> -->\n  </div>\n</div>\n\n\n\
+      <!-- Second Grid -->\n<!--   w3-light-grey -->\n<div class=\"w3-row-padding\
+      \  w3-padding-64 w3-container\">\n  <div class=\"w3-content\">\n    <h1 align=left>Report</h1>\n\
+      <!--     <iframe src=\"https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2Fibm%2Bhack%2Freport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false\"\
       \ width=\"1024\" height=\"720\" frameborder=\"0\" gesture=\"media\" allow=\"\
-      encrypted-media\" allowfullscreen=\"\"></iframe>\n    \n\n    \n  </div>\n</div>\n\
-      \n<!-- Third Grid -->\n<div class=\"w3-row-padding  w3-padding-64 w3-container\"\
-      >\n  <div class=\"w3-content\">\n      <h1 align=left>Story</h1>\n      <iframe\
-      \ src=\"https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fstory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=-1&amp;sceneTime=0\"\
+      encrypted-media\" allowfullscreen=\"\"></iframe> -->\n    \n\n    \n  </div>\n\
+      </div>\n\n<!-- Third Grid -->\n<div class=\"w3-row-padding  w3-padding-64 w3-container\"\
+      >\n  <div class=\"w3-content\">\n      <h1 align=left>Story</h1>\n<!--     \
+      \  <iframe src=\"https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2Fibm%2Bhack%2Fstory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=-1&amp;sceneTime=0\"\
       \ width=\"1024\" height=\"720\" frameborder=\"0\" gesture=\"media\" allow=\"\
-      encrypted-media\" allowfullscreen=\"\"></iframe>\n\n    \n  </div>\n</div>\n\
+      encrypted-media\" allowfullscreen=\"\"></iframe> -->\n\n    \n  </div>\n</div>\n\
       \n\n<!-- Footer -->\n<footer class=\"w3-container w3-padding-64 w3-center w3-opacity\"\
       >  \n<p>Powered by <a href=\"https://www.w3schools.com/w3css/default.asp\" target=\"\
       _blank\">w3.css</a></p>\n</footer>\n\n<script>\n// Used to toggle the menu on\
